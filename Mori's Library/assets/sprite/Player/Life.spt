@@ -1,0 +1,4 @@
+Image assets/images/hp.png
+NumFrames 7
+Anim assets/sprite/None.anm
+Anim assets/sprite/Player/Life_Lose.anm

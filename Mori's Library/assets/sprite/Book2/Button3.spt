@@ -1,0 +1,5 @@
+Image assets/images/Button_3.png
+NumFrames 4
+Collision Rect
+Anim assets/sprite/Book2/ButtonPressed.anm
+Anim assets/sprite/Book2/ButtonUp.anm

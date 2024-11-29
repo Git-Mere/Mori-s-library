@@ -1,0 +1,9 @@
+Image assets/images/Robot.png
+NumFrames 7
+YNumFrames 7
+Collision Rect
+Anim assets/sprite/Book5/Robot/Robot_Idle.anm
+Anim assets/sprite/Book5/Robot/Robot_Running.anm
+Anim assets/sprite/Book5/Robot/Robot_Attack.anm
+Anim assets/sprite/Book5/Robot/Robot_Crime.anm
+Anim assets/sprite/Book5/Robot/Robot_Range.anm

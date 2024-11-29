@@ -1,0 +1,6 @@
+Image assets/images/Tutorial.png
+NumFrames 13
+Collision Rect
+Anim assets/sprite/Portalbook/Idle.anm
+Anim assets/sprite/Portalbook/open.anm
+Anim assets/sprite/Portalbook/close.anm

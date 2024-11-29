@@ -1,0 +1,5 @@
+Image assets/images/HomingBomb.png
+NumFrames 22
+Collision Rect
+Anim assets/sprite/Book5/Bomb_running.anm
+Anim assets/sprite/Book5/Bomb_explode.anm

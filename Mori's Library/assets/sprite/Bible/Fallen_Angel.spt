@@ -1,0 +1,5 @@
+Image assets/images/Fallen_Angel.png
+NumFrames 10
+Collision Rect
+Anim assets/sprite/Bible/Fallen_Angel_running.anm
+Anim assets/sprite/Bible/Fallen_Angel_teleport.anm

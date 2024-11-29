@@ -1,0 +1,5 @@
+Image assets/images/missile.png
+NumFrames 9
+Collision Poly -0.5 -0.5 0.5 -0.5 0.5 0.5 -0.5 0.5
+Anim assets/sprite/Book5/missile.anm
+Anim assets/sprite/Book5/missile_explode.anm

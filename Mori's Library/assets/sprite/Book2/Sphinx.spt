@@ -1,0 +1,4 @@
+Image assets/images/Sphinx.png
+NumFrames 10
+Collision Rect
+Anim assets/sprite/Book2/Sphinx.anm

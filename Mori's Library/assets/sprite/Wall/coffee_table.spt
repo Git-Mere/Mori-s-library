@@ -1,0 +1,4 @@
+Image assets/images/coffee_table.png
+NumFrames 10
+Collision Rect
+Anim assets/sprite/Wall/coffee_table.anm

@@ -1,0 +1,8 @@
+Image assets/images/slime.png
+NumFrames 31
+Collision Circle
+Anim assets/sprite/Book1/Slime_running.anm
+Anim assets/sprite/Book1/Slime_faded.anm
+Anim assets/sprite/Book1/Slime_shooting.anm
+Anim assets/sprite/Book1/Slime_jump_attack.anm
+Anim assets/sprite/Book1/Slime_randing_attack.anm

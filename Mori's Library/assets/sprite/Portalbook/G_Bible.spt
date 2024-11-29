@@ -1,0 +1,6 @@
+Image assets/images/G_Bible.png
+NumFrames 13
+Collision Rect
+Anim assets/sprite/Portalbook/BibleBook_Idle.anm
+Anim assets/sprite/Portalbook/BibleBook_open.anm
+Anim assets/sprite/Portalbook/BibleBook_close.anm

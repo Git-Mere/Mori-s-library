@@ -1,0 +1,4 @@
+Image assets/images/cute.png
+NumFrames 3
+Collision Rect
+Anim assets/sprite/Mori/Mori_stand.anm

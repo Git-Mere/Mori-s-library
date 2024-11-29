@@ -1,0 +1,4 @@
+Image assets/images/DASH.png
+NumFrames 2
+Anim assets/sprite/None.anm
+Anim assets/sprite/Dash_cooltime.anm

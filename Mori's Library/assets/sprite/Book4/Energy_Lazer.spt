@@ -1,0 +1,5 @@
+Image assets/images/Energy_Lazer.png
+NumFrames 5
+Collision Poly -0.5 -0.5 0.5 -0.5 0.5 0.5 -0.5 0.5
+Anim assets/sprite/Book4/Energy_Lazer_Ready.anm
+Anim assets/sprite/Book4/Energy_Lazer_Shoot.anm

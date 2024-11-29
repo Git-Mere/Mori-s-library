@@ -1,0 +1,9 @@
+Image assets/images/tuto_mori_say.png
+NumFrames 6
+Collision Rect
+Anim assets/sprite/Mori/tuto_none.anm
+Anim assets/sprite/Mori/say_open.anm
+Anim assets/sprite/Mori/say_close.anm
+Anim assets/sprite/Mori/tuto_1.anm
+Anim assets/sprite/Mori/tuto_2.anm
+Anim assets/sprite/Mori/tuto_3.anm

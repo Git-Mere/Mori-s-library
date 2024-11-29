@@ -1,0 +1,6 @@
+Q3. It's special sequence 5 3 6 8 4 2 4 6 ? what is ? number
+A1. 3
+A2. 8
+A3. 4
+A4. 12
+1

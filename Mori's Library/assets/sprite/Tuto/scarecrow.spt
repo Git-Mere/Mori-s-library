@@ -1,0 +1,5 @@
+Image assets/images/scarecrow.png
+NumFrames 7
+Collision Rect
+Anim assets/sprite/Tuto/scarecrow_idle.anm
+Anim assets/sprite/Tuto/scarecrow_throw.anm

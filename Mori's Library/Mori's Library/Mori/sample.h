@@ -1,0 +1,23 @@
+#pragma once
+#include "../Engine/GameObject.h"
+
+class sample : public GameObject {
+public:
+    ///////////////////////////////////////////////////////////////////////////////////////////
+    //오브젝트 만들면 무조건 있어야 하는 함수. 이 값들 바꿔주고 GameObjectTypes.h 에 반드시 추가해야함////
+    ///////////////////////////////////////////////////////////////////////////////////////////
+    sample(vec2 position);
+    GameObjectTypes Type() override { return GameObjectTypes::sample; }
+    std::string TypeName() override { return "sample"; }
+
+    ///////////////////////////////////////////////////////////////////////////////////////////
+    ////////////////            필요에 따라서 수정해야 하는 함수           ///////////////////////
+    //////////////////   반드시 GameObject.h 에 있는 원형을 지켜줘야 함. ////////////////////////////
+    ///////////////////////////////////////////////////////////////////////////////////////////
+    bool CanCollideWith(GameObjectTypes other_object_type);
+    void ResolveCollision([[maybe_unused]] GameObject* other_object) {};
+    void Draw(const mat3& world_to_ndc);
+    void Update(float dt);
+private:
+    //본인이 필요하겠다고 생각한 변수들 추가
+};

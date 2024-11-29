@@ -1,0 +1,4 @@
+Image assets/images/Energy_Fist.png
+NumFrames 4
+Collision Circle
+Anim assets/sprite/Book4/Energy_Fist.anm

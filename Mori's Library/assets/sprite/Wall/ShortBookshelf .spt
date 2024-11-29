@@ -1,0 +1,4 @@
+Image assets/images/short_wall.png
+NumFrames 1
+Collision Rect
+Anim assets/sprite/None.anm

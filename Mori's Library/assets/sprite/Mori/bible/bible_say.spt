@@ -1,0 +1,10 @@
+Image assets/images/bible_say.png
+NumFrames 8
+Collision Rect
+Anim assets/sprite/Mori/none.anm
+Anim assets/sprite/Mori/say_open.anm
+Anim assets/sprite/Mori/say_close.anm
+Anim assets/sprite/Mori/bible/bible_1.anm
+Anim assets/sprite/Mori/bible/bible_2.anm
+Anim assets/sprite/Mori/bible/bible_3.anm
+Anim assets/sprite/Mori/bible/bible_4.anm

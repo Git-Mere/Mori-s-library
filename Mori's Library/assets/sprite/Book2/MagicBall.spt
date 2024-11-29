@@ -1,0 +1,5 @@
+Image assets/images/rock.png
+NumFrames 2
+Collision Circle
+Anim assets/sprite/Book2/MagicBallBoom.anm
+Anim assets/sprite/Book2/MagicBallIdle.anm

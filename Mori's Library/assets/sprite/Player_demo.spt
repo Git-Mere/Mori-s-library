@@ -1,0 +1,4 @@
+Image assets/images/Player_demo.png
+NumFrames 1
+Collision Rect
+Anim assets/sprite/None.anm

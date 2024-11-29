@@ -1,0 +1,4 @@
+Image assets/images/Earthquake.png
+NumFrames 9
+Collision Rect
+Anim assets/sprite/Book4/Earthquake.anm

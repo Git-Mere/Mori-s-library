@@ -1,0 +1,8 @@
+Image assets/images/Mode_book.png
+NumFrames 12
+Collision Rect
+Anim assets/sprite/Portalbook/Idle.anm
+Anim assets/sprite/Portalbook/easyopen.anm
+Anim assets/sprite/Portalbook/easyclose.anm
+Anim assets/sprite/Portalbook/hardopen.anm
+Anim assets/sprite/Portalbook/hardclose.anm

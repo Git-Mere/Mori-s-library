@@ -1,0 +1,9 @@
+Image assets/images/Blossom_book.png
+NumFrames 16
+Collision Rect
+Anim assets/sprite/Portalbook/Normal_Idle.anm
+Anim assets/sprite/Portalbook/Normal_Open.anm
+Anim assets/sprite/Portalbook/Normal_Close.anm
+Anim assets/sprite/Portalbook/Gold_Idle.anm
+Anim assets/sprite/Portalbook/Gold_Open.anm
+Anim assets/sprite/Portalbook/Gold_Close.anm

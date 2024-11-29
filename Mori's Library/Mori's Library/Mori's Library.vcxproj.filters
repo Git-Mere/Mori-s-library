@@ -1,0 +1,631 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Engine\Animation.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\CameraCom.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Engine.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Font.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\GameObject.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\GameObjectManager.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\GameStateManager.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Input.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Logger.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Matrix.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Sprite.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Texture.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\TextureManager.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Mainmenu.cpp">
+      <Filter>State</Filter>
+    </ClCompile>
+    <ClCompile Include="byebye.cpp">
+      <Filter>X_file</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Player.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\sample_logo.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Splash.cpp">
+      <Filter>State</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Particle.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Cursor.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\sample.cpp">
+      <Filter>X_file</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\FontObject.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Credit.cpp">
+      <Filter>State</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Option.cpp">
+      <Filter>State</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Slime.cpp">
+      <Filter>Book1</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Book1.cpp">
+      <Filter>Book1</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\QuizBox.cpp">
+      <Filter>Book2</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\MathPersom.cpp">
+      <Filter>Book2</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\captain.cpp">
+      <Filter>Book3</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\captain_attack.cpp">
+      <Filter>Book3</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\dash.cpp">
+      <Filter>Object\Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Jump.cpp">
+      <Filter>Object\Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Book3.cpp">
+      <Filter>Book3</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\invincible.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Book2.cpp">
+      <Filter>Book2</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Block.cpp">
+      <Filter>Book2</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Life.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Skill.cpp">
+      <Filter>Object\Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\ShowCollision.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Gravity.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Background.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\BookN.cpp">
+      <Filter>BookN</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\ground.cpp">
+      <Filter>BookN</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\parrying.cpp">
+      <Filter>Object\Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="previous collision.cpp">
+      <Filter>X_file</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Collision.cpp">
+      <Filter>Engine\collision</Filter>
+    </ClCompile>
+    <ClCompile Include="RectCollision.cpp">
+      <Filter>Engine\collision</Filter>
+    </ClCompile>
+    <ClCompile Include="CircleCollision.cpp">
+      <Filter>Engine\collision</Filter>
+    </ClCompile>
+    <ClCompile Include="PolyCollision.cpp">
+      <Filter>Engine\collision</Filter>
+    </ClCompile>
+    <ClCompile Include="LineCollision.cpp">
+      <Filter>Engine\collision</Filter>
+    </ClCompile>
+    <ClCompile Include="PointCollision.cpp">
+      <Filter>Engine\collision</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Timer.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\MagicBall.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Library.cpp">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\portalbook.cpp">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Fiter.cpp">
+      <Filter>Book4</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Book4.cpp">
+      <Filter>Book4</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Angel_wings.cpp">
+      <Filter>Bible</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Bible.cpp">
+      <Filter>Bible</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Final_Spark.cpp">
+      <Filter>Bible</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Lucifer.cpp">
+      <Filter>Bible</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Light_spear.cpp">
+      <Filter>Bible</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Javelin.cpp">
+      <Filter>Bible</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Blessed_Aura.cpp">
+      <Filter>Bible</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\MagicBall.cpp">
+      <Filter>Book2</Filter>
+    </ClCompile>
+    <ClCompile Include="ScreenEffect.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Fallen_Lucifer.cpp">
+      <Filter>Bible</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Fallen_Bible.cpp">
+      <Filter>Bible</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Fallen_Angel_wings.cpp">
+      <Filter>Bible</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Fallen_Attack.cpp">
+      <Filter>Bible</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Sphinx.cpp">
+      <Filter>Book2</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Soundeffect.cpp">
+      <Filter>Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\portalbook_image.cpp">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="tuto_dummy.cpp">
+      <Filter>Tutorial</Filter>
+    </ClCompile>
+    <ClCompile Include="Tutorial.cpp">
+      <Filter>Tutorial</Filter>
+    </ClCompile>
+    <ClCompile Include="Tuto_ball.cpp">
+      <Filter>Tutorial</Filter>
+    </ClCompile>
+    <ClCompile Include="corrider.cpp">
+      <Filter>Tutorial</Filter>
+    </ClCompile>
+    <ClCompile Include="wall.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Bard.cpp">
+      <Filter>Book5</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Book5.cpp">
+      <Filter>Book5</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Cosmic_tone.cpp">
+      <Filter>Book5</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Electronic_wave.cpp">
+      <Filter>Book5</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Parrying_attack.cpp">
+      <Filter>Book5</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Summoner.cpp">
+      <Filter>Book5</Filter>
+    </ClCompile>
+    <ClCompile Include="UIManager.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\SkillUI.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\FiterAttack.cpp">
+      <Filter>Book4</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\book_scroll.cpp">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\GameOver.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Rolling_Credit.cpp">
+      <Filter>State</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Basement.cpp">
+      <Filter>State</Filter>
+    </ClCompile>
+    <ClCompile Include="Mori\Horazontal_Cursor.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Engine\Animation.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\CameraCom.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Component.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\ComponentManager.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Constant.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Engine.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Font.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\GameObject.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\GameObjectManager.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\GameState.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\GameStateManager.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Input.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Logger.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Matrix.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Rect.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Sprite.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Texture.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\TextureManager.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Mainmenu.h">
+      <Filter>State</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Player.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\sample_logo.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Splash.h">
+      <Filter>State</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\States.h">
+      <Filter>State</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\GameObjectTypes.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Particle.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Cursor.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\sample.h">
+      <Filter>X_file</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\FontObject.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\TextRead.h">
+      <Filter>Usefull</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Credit.h">
+      <Filter>State</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Option.h">
+      <Filter>State</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Slime.h">
+      <Filter>Book1</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Book1.h">
+      <Filter>Book1</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\QuizBox.h">
+      <Filter>Book2</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\MathPerson.h">
+      <Filter>Book2</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Block.h">
+      <Filter>Book2</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\captain.h">
+      <Filter>Book3</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Book2.h">
+      <Filter>Book2</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Book3.h">
+      <Filter>Book3</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\invincible.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Life.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Skill.h">
+      <Filter>Object\Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\ShowCollision.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Gravity.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Background.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\SkillManager.h">
+      <Filter>Object\Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\BookN.h">
+      <Filter>BookN</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\ground.h">
+      <Filter>BookN</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\captain_attack.h">
+      <Filter>Book3</Filter>
+    </ClInclude>
+    <ClInclude Include="previous collision.h">
+      <Filter>X_file</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Collision.h">
+      <Filter>Engine\collision</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Timer.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\MagicBall.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Particels.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Library.h">
+      <Filter>Library</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\portalbook.h">
+      <Filter>Library</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Fiter.h">
+      <Filter>Book4</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Book4.h">
+      <Filter>Book4</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Angel_wings.h">
+      <Filter>Bible</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Bible.h">
+      <Filter>Bible</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Final_Spark.h">
+      <Filter>Bible</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Lucifer.h">
+      <Filter>Bible</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Light_spear.h">
+      <Filter>Bible</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Javelin.h">
+      <Filter>Bible</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Blessed_Aura.h">
+      <Filter>Bible</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\MagicBall.h">
+      <Filter>Book2</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenEffect.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Fallen_Lucifer.h">
+      <Filter>Bible</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Fallen_Bible.h">
+      <Filter>Bible</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Fallen_Angel_wings.h">
+      <Filter>Bible</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Fallen_Attack.h">
+      <Filter>Bible</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Sphinx.h">
+      <Filter>Book2</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Soundeffect.h">
+      <Filter>Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\portalbook_image.h">
+      <Filter>Library</Filter>
+    </ClInclude>
+    <ClInclude Include="tuto_dummy.h">
+      <Filter>Tutorial</Filter>
+    </ClInclude>
+    <ClInclude Include="Tutorial.h">
+      <Filter>Tutorial</Filter>
+    </ClInclude>
+    <ClInclude Include="Tuto_ball.h">
+      <Filter>Tutorial</Filter>
+    </ClInclude>
+    <ClInclude Include="corridor.h">
+      <Filter>Tutorial</Filter>
+    </ClInclude>
+    <ClInclude Include="Furniture.h">
+      <Filter>Library</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Bard.h">
+      <Filter>Book5</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Book5.h">
+      <Filter>Book5</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Cosmic_tone.h">
+      <Filter>Book5</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Electronic_wave.h">
+      <Filter>Book5</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Parrying_attack.h">
+      <Filter>Book5</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Summoner.h">
+      <Filter>Book5</Filter>
+    </ClInclude>
+    <ClInclude Include="UIManager.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\SkillUI.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\FiterAttack.h">
+      <Filter>Book4</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Rolling_Credit.h">
+      <Filter>State</Filter>
+    </ClInclude>
+    <ClInclude Include="wall.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\book_scroll.h">
+      <Filter>State</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\GameOver.h">
+      <Filter>State</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Basement.h">
+      <Filter>State</Filter>
+    </ClInclude>
+    <ClInclude Include="Mori\Horazontal_Cursor.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Engine">
+      <UniqueIdentifier>{c3eb04a7-53cc-43b4-af06-43afbcabd653}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X_file">
+      <UniqueIdentifier>{e7b916e4-8b67-45a0-a513-aa56b57a8441}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object">
+      <UniqueIdentifier>{adce4552-3766-443f-837e-506386792cd6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State">
+      <UniqueIdentifier>{4d433bc4-b6b8-4c8e-a1ad-53829fe8465f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Usefull">
+      <UniqueIdentifier>{c0085eb8-12bf-433f-a839-704cf1e9f4aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Book1">
+      <UniqueIdentifier>{1bca36cc-5e01-4b1f-bc5d-58203adbb061}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Book2">
+      <UniqueIdentifier>{e061ddcc-67bc-4059-ba53-f46399a07707}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Book3">
+      <UniqueIdentifier>{01bd5d14-70ab-4060-8b64-76b9db505202}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{b1982169-1efc-4d48-91fa-eaf301fc6d84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component">
+      <UniqueIdentifier>{9ab0c3ed-26c6-46c0-b84c-ca185fe24b12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Library">
+      <UniqueIdentifier>{d6059ce9-1d03-4f3f-bc9e-49f9c66f8988}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BookN">
+      <UniqueIdentifier>{67e79727-805b-4293-95fe-08e0bd0ab57a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\collision">
+      <UniqueIdentifier>{bc0f9d33-dc5f-4922-8ca7-299606c47207}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Book4">
+      <UniqueIdentifier>{f251bf1c-ee19-47d0-a294-eb92533413a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Bible">
+      <UniqueIdentifier>{0861861a-acfc-4e09-bbd3-c219efe38243}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sound">
+      <UniqueIdentifier>{16b85b4e-97bb-42a3-b82f-6d388a4dcd7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Skill">
+      <UniqueIdentifier>{176a0e62-6207-4518-baf3-2620197d9616}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tutorial">
+      <UniqueIdentifier>{6c350128-8523-427f-ab29-00a75c0d0610}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Book5">
+      <UniqueIdentifier>{443016c1-c446-41c8-8420-c3fb41c2eef0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

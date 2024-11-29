@@ -1,0 +1,5 @@
+Image assets/images/Book3_scroll.png
+NumFrames 6
+Anim assets/sprite/Scroll/Scroll_Idle.anm
+Anim assets/sprite/Scroll/Scroll_open.anm
+Anim assets/sprite/Scroll/Scroll_close.anm

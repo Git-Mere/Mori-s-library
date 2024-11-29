@@ -1,0 +1,4 @@
+Image assets/images/Eddy.png
+NumFrames 9
+Collision Circle
+Anim assets/sprite/Portalbook/eddy_spin.anm

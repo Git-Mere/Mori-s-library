@@ -1,0 +1,5 @@
+Image assets/images/mori.png
+NumFrames 11
+Collision Rect
+Anim assets/sprite/Mori/Mori.anm
+Anim assets/sprite/Mori/no_Mori.anm

@@ -1,0 +1,16 @@
+Image assets/images/library_say.png
+NumFrames 14
+Collision Rect
+Anim assets/sprite/Mori/none.anm
+Anim assets/sprite/Mori/say_open.anm
+Anim assets/sprite/Mori/say_close.anm
+Anim assets/sprite/Mori/library/library_1.anm
+Anim assets/sprite/Mori/library/library_2.anm
+Anim assets/sprite/Mori/library/library_3.anm
+Anim assets/sprite/Mori/library/library_4.anm
+Anim assets/sprite/Mori/library/library_5.anm
+Anim assets/sprite/Mori/library/library_6.anm
+Anim assets/sprite/Mori/library/library_7.anm
+Anim assets/sprite/Mori/library/library_8.anm
+Anim assets/sprite/Mori/library/library_9.anm
+Anim assets/sprite/Mori/library/library_10.anm

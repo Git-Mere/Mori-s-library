@@ -1,0 +1,5 @@
+Image assets/images/Sand_explode.png
+NumFrames 21
+Collision Circle
+Anim assets/sprite/Book2/Sand_Pit_Idle.anm
+Anim assets/sprite/Book2/Sand_Pit_Boom.anm

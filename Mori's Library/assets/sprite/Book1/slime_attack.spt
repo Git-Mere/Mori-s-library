@@ -1,0 +1,4 @@
+Image assets/images/Slime_ball.png
+NumFrames 4
+Collision Circle
+Anim assets/sprite/Book1/slime_attack_animation.anm

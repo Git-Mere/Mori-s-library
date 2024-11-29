@@ -1,0 +1,5 @@
+Image assets/images/Angel.png
+NumFrames 10
+Collision Rect
+Anim assets/sprite/Bible/Angel_running.anm
+Anim assets/sprite/Bible/Angel_teleport.anm

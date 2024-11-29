@@ -1,0 +1,15 @@
+Image assets/images/Fighter.png
+NumFrames 9
+YNumFrames 8
+Collision Rect
+Anim assets/sprite/Book4/Fiter/Fiter_Idle.anm
+Anim assets/sprite/Book4/Fiter/Fiter_Step.anm
+Anim assets/sprite/Book4/Fiter/Fiter_Running.anm
+Anim assets/sprite/Book4/Fiter/Fiter_Punch.anm
+Anim assets/sprite/Book4/Fiter/Fiter_Kick.anm
+Anim assets/sprite/Book4/Fiter/Fiter_Pattern_Kick1.anm
+Anim assets/sprite/Book4/Fiter/Fiter_Pattern_Kick2.anm
+Anim assets/sprite/Book4/Fiter/Fiter_Earthquake.anm
+Anim assets/sprite/Book4/Fiter/Fiter_Enerylazer1.anm
+Anim assets/sprite/Book4/Fiter/Fiter_Enerylazer2.anm
+Anim assets/sprite/Book4/Fiter/Fiter_Dash.anm

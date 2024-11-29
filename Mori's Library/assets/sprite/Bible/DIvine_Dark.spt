@@ -1,0 +1,4 @@
+Image assets/images/Hell_Fire.png
+NumFrames 8
+Collision Circle
+Anim assets/sprite/Bible/Divine_Dark.anm

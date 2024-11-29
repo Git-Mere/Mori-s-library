@@ -1,0 +1,4 @@
+Image assets/images/Wings.png
+NumFrames 5
+Anim assets/sprite/Bible/Angel_wings.anm
+Anim assets/sprite/Bible/Angel_wings_invisible.anm

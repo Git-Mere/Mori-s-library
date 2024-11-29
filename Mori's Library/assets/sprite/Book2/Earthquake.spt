@@ -1,0 +1,5 @@
+Image assets/images/Sand_landing.png
+NumFrames 13
+Collision Rect
+Anim assets/sprite/Book2/EarthquakeIdle.anm
+Anim assets/sprite/Book2/EarthquakeBoom.anm

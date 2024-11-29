@@ -1,0 +1,4 @@
+Image assets/images/pirate.png
+NumFrames 5
+Anim assets/sprite/Book3/captain_leftright.anm
+Anim assets/sprite/Book3/captain_middle.anm

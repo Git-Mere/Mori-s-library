@@ -1,0 +1,5 @@
+Image assets/images/Hell_explode.png
+NumFrames 20
+Collision Circle
+Anim assets/sprite/Bible/Fire_Pit_Idle.anm
+Anim assets/sprite/Bible/Fire_Pit_Boom.anm

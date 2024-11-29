@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "common_gl", "common_gl\common_gl.vcxproj", "{9C418348-82CE-45B9-868F-1F696B4E02A3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mori's Library", "Mori's Library\Mori's Library.vcxproj", "{A81E035A-DF28-49EF-8897-559EE9D3D500}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C418348-82CE-45B9-868F-1F696B4E02A3}.Debug|x64.ActiveCfg = Debug|x64
+		{9C418348-82CE-45B9-868F-1F696B4E02A3}.Debug|x64.Build.0 = Debug|x64
+		{9C418348-82CE-45B9-868F-1F696B4E02A3}.Release|x64.ActiveCfg = Release|x64
+		{9C418348-82CE-45B9-868F-1F696B4E02A3}.Release|x64.Build.0 = Release|x64
+		{A81E035A-DF28-49EF-8897-559EE9D3D500}.Debug|x64.ActiveCfg = Debug|x64
+		{A81E035A-DF28-49EF-8897-559EE9D3D500}.Debug|x64.Build.0 = Debug|x64
+		{A81E035A-DF28-49EF-8897-559EE9D3D500}.Release|x64.ActiveCfg = Release|x64
+		{A81E035A-DF28-49EF-8897-559EE9D3D500}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A9D440C-F754-433A-B3C5-F1DA25D84E62}
+	EndGlobalSection
+EndGlobal

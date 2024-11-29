@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CircleCollision.cpp" />
+    <ClCompile Include="corrider.cpp" />
+    <ClCompile Include="Mori.cpp" />
+    <ClCompile Include="Mori\Bard.cpp" />
+    <ClCompile Include="Mori\Basement.cpp" />
+    <ClCompile Include="Mori\Book5.cpp" />
+    <ClCompile Include="Mori\book_scroll.cpp" />
+    <ClCompile Include="Mori\Cosmic_tone.cpp" />
+    <ClCompile Include="Mori\Electronic_wave.cpp" />
+    <ClCompile Include="Mori\FiterAttack.cpp" />
+    <ClCompile Include="Mori\GameOver.cpp" />
+    <ClCompile Include="Mori\Horazontal_Cursor.cpp" />
+    <ClCompile Include="Mori\Parrying_attack.cpp" />
+    <ClCompile Include="Mori\portalbook_image.cpp" />
+    <ClCompile Include="Mori\Rolling_Credit.cpp" />
+    <ClCompile Include="Mori\Soundeffect.cpp" />
+    <ClCompile Include="Mori\Sphinx.cpp" />
+    <ClCompile Include="Mori\Summoner.cpp" />
+    <ClCompile Include="ScreenEffect.cpp" />
+    <ClCompile Include="Engine\Gravity.cpp" />
+    <ClCompile Include="Engine\Skill.cpp" />
+    <ClCompile Include="LineCollision.cpp" />
+    <ClCompile Include="Mori\Angel_wings.cpp" />
+    <ClCompile Include="Mori\Bible.cpp" />
+    <ClCompile Include="Mori\Blessed_Aura.cpp" />
+    <ClCompile Include="Mori\Block.cpp" />
+    <ClCompile Include="Mori\Background.cpp" />
+    <ClCompile Include="Mori\Fiter.cpp" />
+    <ClCompile Include="Mori\Book1.cpp" />
+    <ClCompile Include="byebye.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Engine\Animation.cpp" />
+    <ClCompile Include="Engine\CameraCom.cpp" />
+    <ClCompile Include="Engine\Collision.cpp" />
+    <ClCompile Include="Engine\Engine.cpp" />
+    <ClCompile Include="Engine\Font.cpp" />
+    <ClCompile Include="Engine\GameObject.cpp" />
+    <ClCompile Include="Engine\GameObjectManager.cpp" />
+    <ClCompile Include="Engine\GameStateManager.cpp" />
+    <ClCompile Include="Engine\Input.cpp" />
+    <ClCompile Include="Engine\Logger.cpp" />
+    <ClCompile Include="Engine\Matrix.cpp" />
+    <ClCompile Include="Engine\ShowCollision.cpp" />
+    <ClCompile Include="Engine\Sprite.cpp" />
+    <ClCompile Include="Engine\Texture.cpp" />
+    <ClCompile Include="Engine\TextureManager.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Mori\Book2.cpp" />
+    <ClCompile Include="Mori\Book3.cpp" />
+    <ClCompile Include="Mori\Book4.cpp" />
+    <ClCompile Include="Mori\BookN.cpp" />
+    <ClCompile Include="Mori\captain.cpp" />
+    <ClCompile Include="Mori\captain_attack.cpp" />
+    <ClCompile Include="Mori\Credit.cpp" />
+    <ClCompile Include="Mori\Cursor.cpp" />
+    <ClCompile Include="Mori\dash.cpp" />
+    <ClCompile Include="Mori\Fallen_Angel_wings.cpp" />
+    <ClCompile Include="Mori\Fallen_Attack.cpp" />
+    <ClCompile Include="Mori\Fallen_Bible.cpp" />
+    <ClCompile Include="Mori\Fallen_Lucifer.cpp" />
+    <ClCompile Include="Mori\Final_Spark.cpp" />
+    <ClCompile Include="Mori\Javelin.cpp" />
+    <ClCompile Include="Mori\Light_spear.cpp" />
+    <ClCompile Include="Mori\Lucifer.cpp" />
+    <ClCompile Include="Mori\SkillUI.cpp" />
+    <ClCompile Include="Mori\FontObject.cpp" />
+    <ClCompile Include="Mori\ground.cpp" />
+    <ClCompile Include="Mori\invincible.cpp" />
+    <ClCompile Include="Mori\Jump.cpp" />
+    <ClCompile Include="Mori\Library.cpp" />
+    <ClCompile Include="Mori\Life.cpp" />
+    <ClCompile Include="Mori\MagicBall.cpp" />
+    <ClCompile Include="Mori\Mainmenu.cpp" />
+    <ClCompile Include="Mori\MathPersom.cpp" />
+    <ClCompile Include="Mori\Option.cpp" />
+    <ClCompile Include="Mori\parrying.cpp" />
+    <ClCompile Include="Mori\Player.cpp" />
+    <ClCompile Include="Mori\portalbook.cpp" />
+    <ClCompile Include="Mori\QuizBox.cpp" />
+    <ClCompile Include="Mori\sample.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Mori\sample_logo.cpp" />
+    <ClCompile Include="Mori\Slime.cpp" />
+    <ClCompile Include="Mori\Splash.cpp" />
+    <ClCompile Include="Engine\Particle.cpp" />
+    <ClCompile Include="Mori\Timer.cpp" />
+    <ClCompile Include="PointCollision.cpp" />
+    <ClCompile Include="PolyCollision.cpp" />
+    <ClCompile Include="previous collision.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="RectCollision.cpp" />
+    <ClCompile Include="Tutorial.cpp" />
+    <ClCompile Include="Tuto_ball.cpp" />
+    <ClCompile Include="tuto_dummy.cpp" />
+    <ClCompile Include="UIManager.cpp" />
+    <ClCompile Include="wall.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="corridor.h" />
+    <ClInclude Include="Furniture.h" />
+    <ClInclude Include="Mori.h" />
+    <ClInclude Include="Mori\Bard.h" />
+    <ClInclude Include="Mori\Basement.h" />
+    <ClInclude Include="Mori\Book5.h" />
+    <ClInclude Include="Mori\book_scroll.h" />
+    <ClInclude Include="Mori\Cosmic_tone.h" />
+    <ClInclude Include="Mori\Electronic_wave.h" />
+    <ClInclude Include="Mori\FiterAttack.h" />
+    <ClInclude Include="Mori\GameOver.h" />
+    <ClInclude Include="Mori\Horazontal_Cursor.h" />
+    <ClInclude Include="Mori\Parrying_attack.h" />
+    <ClInclude Include="Mori\portalbook_image.h" />
+    <ClInclude Include="Mori\Rolling_Credit.h" />
+    <ClInclude Include="Mori\Soundeffect.h" />
+    <ClInclude Include="Mori\Sphinx.h" />
+    <ClInclude Include="Mori\Summoner.h" />
+    <ClInclude Include="ScreenEffect.h" />
+    <ClInclude Include="Engine\Gravity.h" />
+    <ClInclude Include="Engine\Skill.h" />
+    <ClInclude Include="Engine\SkillManager.h" />
+    <ClInclude Include="Engine\Particels.h" />
+    <ClInclude Include="Mori\Angel_wings.h" />
+    <ClInclude Include="Mori\Bible.h" />
+    <ClInclude Include="Mori\Blessed_Aura.h" />
+    <ClInclude Include="Mori\Block.h" />
+    <ClInclude Include="Mori\Background.h" />
+    <ClInclude Include="Mori\Fiter.h" />
+    <ClInclude Include="Mori\Book1.h" />
+    <ClInclude Include="Engine\Animation.h" />
+    <ClInclude Include="Engine\CameraCom.h" />
+    <ClInclude Include="Engine\Collision.h" />
+    <ClInclude Include="Engine\Component.h" />
+    <ClInclude Include="Engine\ComponentManager.h" />
+    <ClInclude Include="Engine\Constant.h" />
+    <ClInclude Include="Engine\Engine.h" />
+    <ClInclude Include="Engine\Font.h" />
+    <ClInclude Include="Engine\GameObject.h" />
+    <ClInclude Include="Engine\GameObjectManager.h" />
+    <ClInclude Include="Engine\GameState.h" />
+    <ClInclude Include="Engine\GameStateManager.h" />
+    <ClInclude Include="Engine\Input.h" />
+    <ClInclude Include="Engine\Logger.h" />
+    <ClInclude Include="Engine\Matrix.h" />
+    <ClInclude Include="Engine\Rect.h" />
+    <ClInclude Include="Engine\ShowCollision.h" />
+    <ClInclude Include="Engine\Sprite.h" />
+    <ClInclude Include="Engine\Texture.h" />
+    <ClInclude Include="Engine\TextureManager.h" />
+    <ClInclude Include="Mori\Book2.h" />
+    <ClInclude Include="Mori\Book3.h" />
+    <ClInclude Include="Mori\BookN.h" />
+    <ClInclude Include="Mori\Book4.h" />
+    <ClInclude Include="Mori\captain.h" />
+    <ClInclude Include="Mori\captain_attack.h" />
+    <ClInclude Include="Mori\Credit.h" />
+    <ClInclude Include="Mori\Cursor.h" />
+    <ClInclude Include="Mori\Fallen_Angel_wings.h" />
+    <ClInclude Include="Mori\Fallen_Attack.h" />
+    <ClInclude Include="Mori\Fallen_Bible.h" />
+    <ClInclude Include="Mori\Fallen_Lucifer.h" />
+    <ClInclude Include="Mori\Final_Spark.h" />
+    <ClInclude Include="Mori\Javelin.h" />
+    <ClInclude Include="Mori\Light_spear.h" />
+    <ClInclude Include="Mori\Lucifer.h" />
+    <ClInclude Include="Mori\SkillUI.h" />
+    <ClInclude Include="Mori\FontObject.h" />
+    <ClInclude Include="Mori\GameObjectTypes.h" />
+    <ClInclude Include="Mori\ground.h" />
+    <ClInclude Include="Mori\invincible.h" />
+    <ClInclude Include="Mori\Library.h" />
+    <ClInclude Include="Mori\Life.h" />
+    <ClInclude Include="Mori\MagicBall.h" />
+    <ClInclude Include="Mori\Mainmenu.h" />
+    <ClInclude Include="Mori\MathPerson.h" />
+    <ClInclude Include="Mori\Option.h" />
+    <ClInclude Include="Mori\Player.h" />
+    <ClInclude Include="Mori\portalbook.h" />
+    <ClInclude Include="Mori\QuizBox.h" />
+    <ClInclude Include="Mori\sample.h">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </ClInclude>
+    <ClInclude Include="Mori\sample_logo.h" />
+    <ClInclude Include="Mori\Slime.h" />
+    <ClInclude Include="Mori\Splash.h" />
+    <ClInclude Include="Mori\States.h" />
+    <ClInclude Include="Engine\Particle.h" />
+    <ClInclude Include="Mori\TextRead.h" />
+    <ClInclude Include="Mori\Timer.h" />
+    <ClInclude Include="previous collision.h">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </ClInclude>
+    <ClInclude Include="Tutorial.h" />
+    <ClInclude Include="Tuto_ball.h" />
+    <ClInclude Include="tuto_dummy.h" />
+    <ClInclude Include="UIManager.h" />
+    <ClInclude Include="wall.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\common_gl\common_gl.vcxproj">
+      <Project>{9c418348-82ce-45b9-868f-1f696b4e02a3}</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{a81e035a-df28-49ef-8897-559ee9d3d500}</ProjectGuid>
+    <RootNamespace>MorisLibrary</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="..\prop-pages\opengl-sdl2-glew-stb-imgui.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="..\prop-pages\opengl-sdl2-glew-stb-imgui.props" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level4</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>$(SolutionDir)external\SFML\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>$(SolutionDir)external\SFML\x64\lib;$(SolutionDir)external\SFML\x64\bin;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>sfml-audio-d.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level4</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>$(SolutionDir)external\SFML\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>$(SolutionDir)external\SFML\x64\lib;$(SolutionDir)external\SFML\x64\bin;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>sfml-audio.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
