@@ -1,1 +1,1 @@
-![banner](Mori's Library/assets/banner.png)
+![banner](Project/assets/banner.png)
