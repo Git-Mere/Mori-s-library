@@ -16,7 +16,7 @@
 
 ## Enter this library and encounter many formidable BOSSES!
 
-[youtube](https://youtu.be/XoSEWcx3OYI)
+[![Watch the video](https://img.youtube.com/vi/XoSEWcx3OYI/0.jpg)](https://youtu.be/XoSEWcx3OYI)
 
 ---
 
