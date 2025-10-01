@@ -16,7 +16,7 @@
 
 ## Enter this library and encounter many formidable BOSSES!
 
-![screenshot](https://piskel-imgstore-b.appspot.com/img/860f1619-e5c2-11ef-8a88-7b055d79be7f.gif)
+[youtube](https://youtu.be/XoSEWcx3OYI)
 
 ---
 
